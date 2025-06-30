@@ -63,8 +63,3 @@ markdown
 **Rakshit Bhardwaj**
 [LinkedIn](https://www.linkedin.com/in/rakshitbhardwaj11)
 ---
-
-## ✨ Author
-
-Rakshit Bhardwaj  
-🔗 [LinkedIn](https://www.linkedin.com/in/rakshitbhardwaj11)
